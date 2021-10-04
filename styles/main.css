@@ -48,5 +48,18 @@
             text-align:center
         }
        
-
+        #headone {
+            color:rgb(250, 230, 120)
+        }
+        #headmain {
+            color:tomato
+        }
+        #reflectionstitle {
+            color:tomato
+        }
+        #sprinttitle {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color:rgb(205, 50, 84)
+             
+        }
     </style>
