@@ -1,5 +1,5 @@
-<style>
-         h1 {
+
+        h1 {
          text-align:center
          }
          h1 { font-family: tahoma;
@@ -62,4 +62,11 @@
             color:rgb(205, 50, 84)
              
         }
-    </style>
+        @media (max-width: 500px) {
+        
+        #textbody{
+    
+            }
+            }
+       
+    
